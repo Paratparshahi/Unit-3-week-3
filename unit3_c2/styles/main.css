@@ -1,0 +1,11 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+#forms{
+    margin-top: 10%;
+    margin-left: 35%;
+    padding: 30px;
+    border: 1px solid red;
+    width: 200px;
+}
